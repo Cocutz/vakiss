@@ -1,0 +1,147 @@
+body{   /*this body section will add styles to the whole page*/
+    background-color: grey; /*This changes the background colour*/
+    text-align: center; /*This piece of code makes all content center in to the middle*/
+    
+} 
+
+
+.top{
+    background-color:rgb(24, 236, 201);
+    height: 150px;
+    width: 100%;
+    float: left;
+    font-size:38px;
+    color: black; /*This changes the colour of the text. Note the spelling is in American*/
+}
+
+
+.left{
+    background-color:rgb(24, 255, 139);
+    height: auto;
+    width: 40%;
+    float: left;
+    font-size:38px;
+    color: black; /*This changes the colour of the text. Note the spelling is in American*/
+}
+
+
+.right{
+    background-color:rgb(15, 117, 201);
+    height: 800px;
+    width: 60%;
+    float: right;
+    font-size:38px;
+    color: black; /*This changes the colour of the text. Note the spelling is in American*/
+}
+
+
+.bottom{
+background-color:rgb(17, 31, 222);
+height: 100px;
+width: 30%;
+float: left;
+font-size:38px;
+color: black; /*This changes the colour of the text. Note the spelling is in American*/
+
+}
+
+
+.leftbottom{
+    background-color:rgb(17, 31, 222);
+    height: 400px;
+    width: 50%;
+    float: left;
+    font-size:38px;
+    color: black; /*This changes the colour of the text. Note the spelling is in American*/
+    margin-top: -400px;
+    }
+
+   
+.top {
+background-color: blueviolet;
+height: 100px;
+width: 100%;
+float: left;
+font-size: 40px;
+color: black;
+}
+
+.food{
+background-color: rgb(247, 0, 0);
+height:600px;
+width: 50%;
+float: left;
+font-size: 40px;
+color: black;
+}
+
+.food2{
+background-color: rgb(240, 107, 18);
+height:600px;
+width: 50%;
+float: left;
+font-size: 40px;
+color: black;
+}
+.food3{
+background-color: rgb(248, 252, 2);
+height: 600px;
+width: 50%;
+float: left;
+font-size: 40px;
+color: black;
+}
+
+.food4{
+    background-color: rgb(250, 6, 67);
+height: 600px;
+width: 50%;
+float: left;
+font-size: 40px;
+color: black;
+}
+
+.contactus{
+    background-color: rgb(179, 110, 7);
+    height: 1000px;
+    width: 100%;
+    float: left;
+    font-size: 40px;
+    color: black;
+}
+
+.tokyo{
+    background-color: rgb(179, 110, 7);
+    height: 600px;
+    width: 50%;
+    float: left;
+    font-size: 40px;
+    color: black;
+}
+
+.kyoto{
+    background-color: rgb(179, 110, 7);
+    height: 600px;
+    width: 50%;
+    float: left;
+    font-size: 40px;
+    color: black;
+}
+
+.naoshima{
+    background-color: rgb(179, 110, 7);
+    height: 600px;
+    width: 50%;
+    float: left;
+    font-size: 40px;
+    color: black;
+}
+
+.okinawa{
+    background-color: rgb(179, 110, 7);
+    height: 600px;
+    width: 50%;
+    float: left;
+    font-size: 40px;
+    color: black;
+}
